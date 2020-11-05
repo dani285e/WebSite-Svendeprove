@@ -3,29 +3,33 @@ package webapp;
 public class WebAppHelper {
 
 
+    private WebAppHelper(){
+
+    }
+
     // REST API Calls
-    private static final String RestApiUrl = "http://localhost:9090";
+    public static final String RestApiUrl = "http://localhost:9090";
 
-    private static final String RestApiLogin = "/login";
+    public static final String RestApiLogin = "/login";
 
-    private static final String RestApiAddUser = "/addUser";
+    public static final String RestApiAddUser = "/addUser";
 
-    private static final String RestApiRemoveUser = "/removeUser";
+    public static final String RestApiRemoveUser = "/removeUser";
 
-    private static final String RestApiAddProject = "/addProject";
+    public static final String RestApiAddProject = "/addProject";
 
-    private static final String RestApiRemoveProject = "/removeProject";
+    public static final String RestApiRemoveProject = "/removeProject";
 
-    private static final String RestApiUpdateUser = "/updateUser";
+    public static final String RestApiUpdateUser = "/updateUser";
 
-    private static final String RestApiUpdateProject = "/updateProject";
+    public static final String RestApiUpdateProject = "/updateProject";
 
-    private static final String RestApiAddUserToProject = "/addUserToProject";
+    public static final String RestApiAddUserToProject = "/addUserToProject";
 
-    private static final String RestApiRemoveUserFromProject = "/removeUserFromProject";
+    public static final String RestApiRemoveUserFromProject = "/removeUserFromProject";
 
-    private static final String RestApiGetProject = "/getProject";
+    public static final String RestApiGetProject = "/getProject";
 
-    private static final String RestApiGetUser = "/getUser";
+    public static final String RestApiGetUser = "/getUser";
 
 }
