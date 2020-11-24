@@ -9,4 +9,28 @@
         <welcome-file>login.do</welcome-file>
     </welcome-file-list>
 
+    <servlet>
+        <servlet-name>logout</servlet-name>
+        <servlet-class>webapp.servlet.LogOutServlet</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>logout</servlet-name>
+        <url-pattern>/logout</url-pattern>
+    </servlet-mapping>
+    <servlet>
+        <servlet-name>tasks</servlet-name>
+        <servlet-class>webapp.servlet.TasksOverviewServlet</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>tasks</servlet-name>
+        <url-pattern>/tasks</url-pattern>
+    </servlet-mapping>
+    <servlet>
+        <servlet-name>task</servlet-name>
+        <servlet-class>webapp.servlet.TasksOverviewServlet</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>task</servlet-name>
+        <url-pattern>/task</url-pattern>
+    </servlet-mapping>
 </web-app>

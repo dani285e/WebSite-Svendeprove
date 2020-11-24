@@ -11,6 +11,18 @@
     <title>Title</title>
 </head>
 <body>
+<form action="/logout" method="post"><input type="submit"></form>
+
+<%
+
+
+%>
+
+<div class="navbar">
+    <a href="#home" class="active">Home</a>
+    <a href="#news">News</a>
+    <a href="#contact">Contact</a>
+</div>
 
 </body>
 </html>

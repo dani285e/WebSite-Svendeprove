@@ -3,12 +3,12 @@ package webapp.service;
 public class UserValidationService {
 
     public boolean isUserValid(String user, String password){
-        String userName = "name";
-        String userPassword = "password";
-        if (user.equals(userName) && password.equals(userPassword)){
-            return true;
-        } else {
+        if (user == null || user.isEmpty()){
             return false;
         }
+        if (password == null || password.isEmpty()){
+            return false;
+        }
+        return true;
     }
 }

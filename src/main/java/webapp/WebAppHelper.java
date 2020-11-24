@@ -1,5 +1,7 @@
 package webapp;
 
+import webapp.utils.UserDto;
+
 public class WebAppHelper {
 
 
@@ -7,10 +9,16 @@ public class WebAppHelper {
 
     }
 
+    public static UserDto loginInformation;
+
     // REST API Calls
-    public static final String RestApiUrl = "http://localhost:9090";
+    public static final String RestApiUrl = "http://localhost:8080";
+
+    public static final String RestApiSecurity ="/security";
 
     public static final String RestApiLogin = "/login";
+
+    public static final String RestApiUser= "/user";
 
     public static final String RestApiAddUser = "/addUser";
 
@@ -31,5 +39,9 @@ public class WebAppHelper {
     public static final String RestApiGetProject = "/getProject";
 
     public static final String RestApiGetUser = "/getUser";
+
+    public static final String RestApiTasks = "/tasks";
+
+    public static final String RestApiGetTaskList = "/list";
 
 }

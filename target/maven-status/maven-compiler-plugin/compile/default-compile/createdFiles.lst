@@ -1,1 +1,8 @@
-webapp\LoginServlet.class
+webapp\servlet\LogOutServlet.class
+webapp\servlet\TasksOverviewServlet.class
+webapp\service\UserValidationService.class
+webapp\utils\UserDto.class
+webapp\WebAppHelper.class
+webapp\servlet\LoginServlet.class
+webapp\servlet\TaskFocusServlet.class
+webapp\utils\LoginDto.class
