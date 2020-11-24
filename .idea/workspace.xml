@@ -28,40 +28,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="eb923a51-cc6f-4042-97a2-ff4b769c24e7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/webapp/servlet/LogOutServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/webapp/servlet/TaskFocusServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/webapp/servlet/TasksOverviewServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/webapp/utils/LoginDto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/webapp/utils/UserDto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/artifacts/WebSite_Svendeprove_war_exploded.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/WebSite_Svendeprove_war_exploded.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/webapp/WebAppHelper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/webapp/WebAppHelper.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/webapp/service/UserValidationService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/webapp/service/UserValidationService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/webapp/servlet/LoginServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/webapp/servlet/LoginServlet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/webapp/utils/HttpClient.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/webapp/utils/HttpUrlConnection.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/login/loginPage.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/login/loginPage.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/profile/userPage.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/profile/userPage.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/task/taskFocusPage.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/task/taskFocusPage.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/task/taskOverviewPage.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/task/taskOverviewPage.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/welcome.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/welcome.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/WebSite-Svendeprove-0.0.1-SNAPSHOT/META-INF/MANIFEST.MF" beforeDir="false" afterPath="$PROJECT_DIR$/target/WebSite-Svendeprove-0.0.1-SNAPSHOT/META-INF/MANIFEST.MF" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/WebSite-Svendeprove-0.0.1-SNAPSHOT/WEB-INF/classes/webapp/LoginServlet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/WebSite-Svendeprove-0.0.1-SNAPSHOT/WEB-INF/classes/webapp/UserValidationService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/WebSite-Svendeprove-0.0.1-SNAPSHOT/WEB-INF/views/login.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/WebSite-Svendeprove-0.0.1-SNAPSHOT/WEB-INF/views/login/loginPage.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/WebSite-Svendeprove-0.0.1-SNAPSHOT/WEB-INF/views/login/loginPage.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/WebSite-Svendeprove-0.0.1-SNAPSHOT/WEB-INF/views/profile/userPage.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/WebSite-Svendeprove-0.0.1-SNAPSHOT/WEB-INF/views/profile/userPage.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/WebSite-Svendeprove-0.0.1-SNAPSHOT/WEB-INF/views/task/taskFocusPage.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/WebSite-Svendeprove-0.0.1-SNAPSHOT/WEB-INF/views/task/taskFocusPage.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/WebSite-Svendeprove-0.0.1-SNAPSHOT/WEB-INF/views/task/taskOverviewPage.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/WebSite-Svendeprove-0.0.1-SNAPSHOT/WEB-INF/views/task/taskOverviewPage.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/WebSite-Svendeprove-0.0.1-SNAPSHOT/WEB-INF/views/welcome.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/WebSite-Svendeprove-0.0.1-SNAPSHOT/WEB-INF/views/welcome.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/WebSite-Svendeprove-0.0.1-SNAPSHOT/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/WebSite-Svendeprove-0.0.1-SNAPSHOT/WEB-INF/web.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/webapp/LoginServlet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/webapp/UserValidationService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -382,7 +349,7 @@
               <path>
                 <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
                 <item name="Tomcat Server" type="7427dc5b:ServiceModel$ServiceGroupNode" />
-                <item name="Running" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="Finished" type="7427dc5b:ServiceModel$ServiceGroupNode" />
               </path>
             </expand>
             <select />
@@ -406,7 +373,7 @@
       <workItem from="1604309461121" duration="7024000" />
       <workItem from="1604393329744" duration="13973000" />
       <workItem from="1606160255828" duration="1769000" />
-      <workItem from="1606162142790" duration="2570000" />
+      <workItem from="1606162142790" duration="5071000" />
     </task>
     <servers />
   </component>
@@ -471,82 +438,82 @@
     </state>
     <state x="787" y="-785" key="FileChooserDialogImpl/0.0.1920.1040/139.-1050.1680.1010@139.-1050.1680.1010" timestamp="1604309525710" />
     <state x="740" y="273" key="FileChooserDialogImpl/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1606162318547" />
-    <state width="1634" height="280" key="GridCell.Tab.0.bottom" timestamp="1606164119651">
+    <state width="1634" height="280" key="GridCell.Tab.0.bottom" timestamp="1606240038063">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1426" height="272" key="GridCell.Tab.0.bottom/0.0.1920.1040/139.-1050.1680.1010@139.-1050.1680.1010" timestamp="1604475183998" />
-    <state width="1634" height="280" key="GridCell.Tab.0.bottom/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1606164119651" />
-    <state width="1634" height="280" key="GridCell.Tab.0.center" timestamp="1606164119651">
+    <state width="1634" height="280" key="GridCell.Tab.0.bottom/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1606240038063" />
+    <state width="1634" height="280" key="GridCell.Tab.0.center" timestamp="1606240038062">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1426" height="272" key="GridCell.Tab.0.center/0.0.1920.1040/139.-1050.1680.1010@139.-1050.1680.1010" timestamp="1604475183998" />
-    <state width="1634" height="280" key="GridCell.Tab.0.center/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1606164119651" />
-    <state width="1634" height="280" key="GridCell.Tab.0.left" timestamp="1606164119651">
+    <state width="1634" height="280" key="GridCell.Tab.0.center/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1606240038062" />
+    <state width="1634" height="280" key="GridCell.Tab.0.left" timestamp="1606240038062">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1426" height="272" key="GridCell.Tab.0.left/0.0.1920.1040/139.-1050.1680.1010@139.-1050.1680.1010" timestamp="1604475183998" />
-    <state width="1634" height="280" key="GridCell.Tab.0.left/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1606164119651" />
-    <state width="1634" height="280" key="GridCell.Tab.0.right" timestamp="1606164119651">
+    <state width="1634" height="280" key="GridCell.Tab.0.left/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1606240038062" />
+    <state width="1634" height="280" key="GridCell.Tab.0.right" timestamp="1606240038062">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1426" height="272" key="GridCell.Tab.0.right/0.0.1920.1040/139.-1050.1680.1010@139.-1050.1680.1010" timestamp="1604475183998" />
-    <state width="1634" height="280" key="GridCell.Tab.0.right/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1606164119651" />
-    <state width="1634" height="280" key="GridCell.Tab.1.bottom" timestamp="1606164119652">
+    <state width="1634" height="280" key="GridCell.Tab.0.right/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1606240038062" />
+    <state width="1634" height="280" key="GridCell.Tab.1.bottom" timestamp="1606240038063">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1426" height="272" key="GridCell.Tab.1.bottom/0.0.1920.1040/139.-1050.1680.1010@139.-1050.1680.1010" timestamp="1604475183999" />
-    <state width="1634" height="280" key="GridCell.Tab.1.bottom/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1606164119652" />
-    <state width="1634" height="280" key="GridCell.Tab.1.center" timestamp="1606164119651">
+    <state width="1634" height="280" key="GridCell.Tab.1.bottom/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1606240038063" />
+    <state width="1634" height="280" key="GridCell.Tab.1.center" timestamp="1606240038063">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1426" height="272" key="GridCell.Tab.1.center/0.0.1920.1040/139.-1050.1680.1010@139.-1050.1680.1010" timestamp="1604475183999" />
-    <state width="1634" height="280" key="GridCell.Tab.1.center/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1606164119651" />
-    <state width="1634" height="280" key="GridCell.Tab.1.left" timestamp="1606164119651">
+    <state width="1634" height="280" key="GridCell.Tab.1.center/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1606240038063" />
+    <state width="1634" height="280" key="GridCell.Tab.1.left" timestamp="1606240038063">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1426" height="272" key="GridCell.Tab.1.left/0.0.1920.1040/139.-1050.1680.1010@139.-1050.1680.1010" timestamp="1604475183998" />
-    <state width="1634" height="280" key="GridCell.Tab.1.left/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1606164119651" />
-    <state width="1634" height="280" key="GridCell.Tab.1.right" timestamp="1606164119651">
+    <state width="1634" height="280" key="GridCell.Tab.1.left/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1606240038063" />
+    <state width="1634" height="280" key="GridCell.Tab.1.right" timestamp="1606240038063">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1426" height="272" key="GridCell.Tab.1.right/0.0.1920.1040/139.-1050.1680.1010@139.-1050.1680.1010" timestamp="1604475183999" />
-    <state width="1634" height="280" key="GridCell.Tab.1.right/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1606164119651" />
-    <state width="1634" height="280" key="GridCell.Tab.2.bottom" timestamp="1606164119487">
+    <state width="1634" height="280" key="GridCell.Tab.1.right/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1606240038063" />
+    <state width="1634" height="280" key="GridCell.Tab.2.bottom" timestamp="1606240038063">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1426" height="272" key="GridCell.Tab.2.bottom/0.0.1920.1040/139.-1050.1680.1010@139.-1050.1680.1010" timestamp="1604475183999" />
-    <state width="1634" height="280" key="GridCell.Tab.2.bottom/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1606164119487" />
-    <state width="1634" height="280" key="GridCell.Tab.2.center" timestamp="1606164119487">
+    <state width="1634" height="280" key="GridCell.Tab.2.bottom/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1606240038063" />
+    <state width="1634" height="280" key="GridCell.Tab.2.center" timestamp="1606240038063">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1426" height="272" key="GridCell.Tab.2.center/0.0.1920.1040/139.-1050.1680.1010@139.-1050.1680.1010" timestamp="1604475183999" />
-    <state width="1634" height="280" key="GridCell.Tab.2.center/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1606164119487" />
-    <state width="1634" height="280" key="GridCell.Tab.2.left" timestamp="1606164119487">
+    <state width="1634" height="280" key="GridCell.Tab.2.center/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1606240038063" />
+    <state width="1634" height="280" key="GridCell.Tab.2.left" timestamp="1606240038063">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1426" height="272" key="GridCell.Tab.2.left/0.0.1920.1040/139.-1050.1680.1010@139.-1050.1680.1010" timestamp="1604475183999" />
-    <state width="1634" height="280" key="GridCell.Tab.2.left/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1606164119487" />
-    <state width="1634" height="280" key="GridCell.Tab.2.right" timestamp="1606164119487">
+    <state width="1634" height="280" key="GridCell.Tab.2.left/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1606240038063" />
+    <state width="1634" height="280" key="GridCell.Tab.2.right" timestamp="1606240038063">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1426" height="272" key="GridCell.Tab.2.right/0.0.1920.1040/139.-1050.1680.1010@139.-1050.1680.1010" timestamp="1604475183999" />
-    <state width="1634" height="280" key="GridCell.Tab.2.right/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1606164119487" />
-    <state width="1634" height="280" key="GridCell.Tab.3.bottom" timestamp="1606164119487">
+    <state width="1634" height="280" key="GridCell.Tab.2.right/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1606240038063" />
+    <state width="1634" height="280" key="GridCell.Tab.3.bottom" timestamp="1606240038063">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1634" height="280" key="GridCell.Tab.3.bottom/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1606164119487" />
-    <state width="1634" height="280" key="GridCell.Tab.3.center" timestamp="1606164119487">
+    <state width="1634" height="280" key="GridCell.Tab.3.bottom/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1606240038063" />
+    <state width="1634" height="280" key="GridCell.Tab.3.center" timestamp="1606240038063">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1634" height="280" key="GridCell.Tab.3.center/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1606164119487" />
-    <state width="1634" height="280" key="GridCell.Tab.3.left" timestamp="1606164119487">
+    <state width="1634" height="280" key="GridCell.Tab.3.center/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1606240038063" />
+    <state width="1634" height="280" key="GridCell.Tab.3.left" timestamp="1606240038063">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1634" height="280" key="GridCell.Tab.3.left/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1606164119487" />
-    <state width="1634" height="280" key="GridCell.Tab.3.right" timestamp="1606164119487">
+    <state width="1634" height="280" key="GridCell.Tab.3.left/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1606240038063" />
+    <state width="1634" height="280" key="GridCell.Tab.3.right" timestamp="1606240038063">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1634" height="280" key="GridCell.Tab.3.right/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1606164119487" />
+    <state width="1634" height="280" key="GridCell.Tab.3.right/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1606240038063" />
     <state x="423" y="165" key="Maven.ArtifactSearchDialog" timestamp="1606156974201">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -568,16 +535,5 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1606160222296" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/webapp/servlet/LoginServlet.java</url>
-          <line>62</line>
-          <option name="timeStamp" value="6" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
